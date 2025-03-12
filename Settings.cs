@@ -21,7 +21,7 @@ namespace GlassCannon
                 "General",
                 "DollarMultiplier",
                 2f,
-                "The multiplier that is applied to item value. 2 doubles the value. 1 is the same. Any number between 0 and 1 will lose value.");
+                "The multiplier that is applied to item value. 10 doubles the value. 1 is the same. Any number between 0 and 1 will lose value.");
             
             ItemImpactBehavior = config.Bind(
                 "General",
